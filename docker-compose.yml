@@ -1,0 +1,4 @@
+version: '3'
+services:
+  database:
+    image: yandex/clickhouse-server:20.5.4.40
